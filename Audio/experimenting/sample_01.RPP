@@ -1,0 +1,282 @@
+<REAPER_PROJECT 0.1 "5.963/x64" 1551848875
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 100 2720 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {5879B03A-FECE-4144-A4DB-AEDA5E02262E}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.65487606816193 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 5088 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 142 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5879B03A-FECE-4144-A4DB-AEDA5E02262E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA8AAAAAAAAAAAAEAA=
+        776t3g3wrd5WzLQ/F7fROrbzvT53vp8+30/NPoxj6T7+Tbg92/n+PtejED8AAIA/N4mBPpzE4D4AAAAA
+        AAAQAAAA
+      >
+      FLOATPOS 713 320 345 432
+      FXID {12C24A19-B5D7-4B21-A166-55E74443E52C}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 33.32708333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDFAA1DE-EAE8-47DC-8443-C02730F9F522}
+      IID 3
+      NAME "01-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9C65630-EF03-4AE1-A0A2-7DE2F792AC34}
+      RECPASS 3
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {F0E4327A-1A98-4B13-8EA5-F120FB067968}
+        E 7601 90 30 3e
+        E 7 90 2d 31
+        E 8 90 34 3e
+        E 2353 90 3e 2e
+        E 1533 90 3c 31
+        E 112 90 3e 00
+        E 412 90 34 00
+        E 3 90 30 00
+        E 35 90 2d 00
+        E 1032 90 32 38
+        E 10 90 35 3d
+        E 13 90 2f 31
+        E 12 90 3b 4e
+        E 32 90 3c 00
+        E 1711 90 3e 3f
+        E 151 90 3b 00
+        E 1474 90 40 2d
+        E 122 90 3e 00
+        E 1581 90 41 3e
+        E 31 90 32 00
+        E 21 90 35 00
+        E 18 90 40 00
+        E 146 90 2f 00
+        E 1473 90 28 29
+        E 9 90 24 2d
+        E 15 90 2b 40
+        E 5 90 41 00
+        E 4 90 3e 44
+        E 1690 90 3c 31
+        E 66 90 3e 00
+        E 1607 90 3b 20
+        E 58 90 3c 00
+        E 1723 90 28 00
+        E 12 90 3e 23
+        E 112 90 24 00
+        E 104 90 3b 00
+        E 70 90 2b 00
+        E 1466 90 3c 31
+        E 41 90 29 32
+        E 15 90 2d 2d
+        E 14 90 3e 00
+        E 28 90 26 31
+        E 1636 90 3c 00
+        E 37 90 3b 20
+        E 1673 90 3b 00
+        E 100 90 39 29
+        E 1703 90 2d 00
+        E 30 90 39 00
+        E 35 90 37 2f
+        E 3 90 29 00
+        E 4 90 26 00
+        E 1848 90 3b 31
+        E 19 90 28 37
+        E 11 90 2b 0e
+        E 25 90 30 26
+        E 64 90 37 00
+        E 1641 90 39 2e
+        E 39 90 3b 00
+        E 1682 90 39 00
+        E 73 90 37 2c
+        E 1729 90 40 2c
+        E 24 90 37 00
+        E 266 90 2b 00
+        E 17 90 28 00
+        E 126 90 30 00
+        E 1418 90 32 34
+        E 4 90 2f 3a
+        E 62 90 3e 38
+        E 13 90 40 00
+        E 110 90 2b 29
+        E 1603 90 3e 00
+        E 11 90 3c 2a
+        E 682 90 3c 00
+        E 1085 90 45 3a
+        E 512 90 2f 00
+        E 1307 90 2b 00
+        E 15 90 43 2c
+        E 4 90 45 00
+        E 36 90 32 00
+        E 1712 90 35 30
+        E 4 90 43 00
+        E 28 90 32 2d
+        E 17 90 2f 25
+        E 5 90 41 2c
+        E 1579 90 40 29
+        E 71 90 41 00
+        E 727 90 40 00
+        E 5 90 3e 2c
+        E 876 90 3e 00
+        E 4 90 3c 38
+        E 187 90 2f 00
+        E 18 90 35 00
+        E 65 90 32 00
+        E 1447 90 3c 00
+        E 11 90 3b 35
+        E 712 90 3b 00
+        E 1206 90 40 34
+        E 4 90 3c 34
+        E 4 90 34 35
+        E 26 90 30 34
+        E 5 90 2d 2c
+        E 3405 90 34 00
+        E 164 90 2d 00
+        E 13 90 30 00
+        E 53 90 3c 00
+        E 3 90 40 00
+        E 5060 b0 7b 00
+        GUID {96F308FE-420F-46F3-A209-1FE67E89F98C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 9
+      >
+    >
+  >
+  <TRACK {EE68378D-C28D-4248-9EFE-0AAAC5888909}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 5088 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EE68378D-C28D-4248-9EFE-0AAAC5888909}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
